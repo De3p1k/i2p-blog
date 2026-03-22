@@ -1,0 +1,18 @@
+baseURL: ""
+languageCode: en-us
+title: raaawr
+theme: PaperMod
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: Wakey wakey ᶻ 𝗓 𐰁 .ᐟ
+    Content: What did one computer geek emo say to the other? WinRAWR
+    ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+
+menu:
+  main:
+    - indentifier: Home
+      name: Home
+      url: /
+      weight: 10

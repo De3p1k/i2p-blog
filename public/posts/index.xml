@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on raaawr</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on raaawr</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Mar 2026 12:38:07 +0530</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Site Info</title>
+      <link>/posts/site-info/</link>
+      <pubDate>Sun, 22 Mar 2026 12:38:07 +0530</pubDate>
+      <guid>/posts/site-info/</guid>
+      <description>&lt;h2 id=&#34;this-blog-is-under-heavy-construction&#34;&gt;This blog is under heavy construction&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
